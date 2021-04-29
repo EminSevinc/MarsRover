@@ -1,6 +1,0 @@
-C:\Users\esevinc\Desktop\HB\MarsRoverConsole\Validation\bin\Debug\Validation.dll
-C:\Users\esevinc\Desktop\HB\MarsRoverConsole\Validation\bin\Debug\Validation.pdb
-C:\Users\esevinc\Desktop\HB\MarsRoverConsole\Validation\obj\Debug\MarsRove.Validator.csprojAssemblyReference.cache
-C:\Users\esevinc\Desktop\HB\MarsRoverConsole\Validation\obj\Debug\MarsRove.Validator.csproj.CoreCompileInputs.cache
-C:\Users\esevinc\Desktop\HB\MarsRoverConsole\Validation\obj\Debug\Validation.dll
-C:\Users\esevinc\Desktop\HB\MarsRoverConsole\Validation\obj\Debug\Validation.pdb
